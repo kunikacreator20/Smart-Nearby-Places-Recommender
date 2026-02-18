@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Nearby Places Recommender</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>📍 Smart Nearby Places Recommender</h1>
+    <p>Find smart recommendations around you</p>
+
+    <button onclick="getLocation()">Find Nearby Places</button>
+
+    <select id="category">
+        <option value="restaurant">Restaurant</option>
+        <option value="hospital">Hospital</option>
+        <option value="cafe">Cafe</option>
+        <option value="park">Park</option>
+        <option value="hotel">Hotel</option>
+    </select>
+
+    <div id="output"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

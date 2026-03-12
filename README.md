@@ -15,7 +15,7 @@ The Smart Nearby Places Recommender is a location-based recommendation system th
 
 🤖 Intelligent recommendation logic
 
-Technologies Used
+**Technologies Used**
 
 Python
 
@@ -27,7 +27,7 @@ HTML, CSS, JavaScript
 
 Machine Learning (optional for recommendation logic)
 
-Installation
+**Installation**
 
 Clone the repository
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 Run the project
 
 streamlit run app.py
-Project Structure
+**Project Structure**
 smart-nearby-places-recommender
 │
 ├── app.py
@@ -52,7 +52,7 @@ smart-nearby-places-recommender
 ├── dataset
 ├── models
 └── README.md
-Future Improvements
+**Future Improvements**
 
 Add real-time location detection
 
@@ -62,7 +62,7 @@ Improve recommendation accuracy using machine learning
 
 Add user login and personalization
 
-Applications
+**Applications**
 
 Travel assistance
 
@@ -72,6 +72,6 @@ Location-based mobile applications
 
 Tourism recommendation systems
 
-Author
+**Author**
 
 Kunika
